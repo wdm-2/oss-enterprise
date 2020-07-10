@@ -8,4 +8,4 @@
 
 ## License
 
-This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2020 wangdemao.
