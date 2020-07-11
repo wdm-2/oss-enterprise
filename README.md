@@ -4,7 +4,9 @@
 
 ## FAQ
 
-#### Who owns the code I contribute to open source projects?
+#### 如何玩
+
+请先下载代码，然后编译game.cpp,新建一个名为game_archive的文件夹。
 
 ## License
 
